@@ -396,3 +396,41 @@ a.button3:active {
     width: 50%;
     border-radius: 360px;
 }
+
+.contact_style {
+
+    text-align: center;
+
+}
+
+#card_contacts {}
+
+.contact-details {
+    padding: 3%;
+}
+
+.contact_style1 {
+
+    margin-top: 50px;
+    height: auto;
+
+}
+
+.list-group-item {
+    border: none;
+
+}
+
+.contact_style {
+    color: #6D738D;
+}
+
+.card-text3 {
+    margin-top: -10px;
+    font-family: roboto;
+    font-size: 15px;
+    font-weight: 500;
+    color: #1E1433;
+    text-align: center;
+    margin-top: 20px;
+}
